@@ -1,0 +1,53 @@
+#first {
+    display: inline-block;
+    border: 2px solid green;
+    font-size: 20px;
+    margin: 100px 20px 30px;
+    padding: 10px;
+}
+
+h1 {
+    color: red;
+}
+
+em {
+    color: green;
+}
+
+.second {
+    color: red;
+    font-size: 40px;
+}
+
+.third, .fourth, .fifth {
+    color: blue !important;
+}
+
+.fifth {
+    font-weight: bold;
+}
+.third {
+    color: red !important;
+}
+
+.sixth {
+    color: red;
+}
+
+input {
+    border: 2px solid red ;
+}
+
+button {
+    width: 250px;
+    height: 70px;
+    font-size: 30px;
+    border: 2px solid green;
+}
+
+.green {
+    color: green;
+    font-style: italic;
+}
+
+
